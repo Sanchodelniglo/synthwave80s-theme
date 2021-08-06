@@ -1,0 +1,21 @@
+{
+    "name": "sanchodelniglo",
+    "displayName": "Synthwave 80's",
+    "description": "A flashy, retro theme forked on BELCH theme from https://themes.vscode.one Thanks to jbbelcher",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Synthwave 80's",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Synthwave 80's-color-theme.json"
+            }
+        ]
+    }
+}
