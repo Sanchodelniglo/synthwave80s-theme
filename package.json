@@ -18,5 +18,8 @@
                 "path": "./themes/Synthwave 80's-color-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "node": "^16.6.1"
     }
 }
