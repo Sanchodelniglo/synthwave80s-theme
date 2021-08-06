@@ -1,12 +1,20 @@
 {
     "name": "synthwave-80s-color-theme",
     "publisher": "sanchodelniglo",
+    "author": "Romain Grossard",
     "displayName": "Synthwave 80's",
     "description": "A flashy, retro theme forked on BELCH theme from https://themes.vscode.one Thanks to jbbelcher",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.59.0"
     },
+    "icon": "icon.png",
+    "keywords": [
+        "retro",
+        "80s",
+        "Outrun",
+        "Synthwave"
+    ],
     "categories": [
         "Themes"
     ],
