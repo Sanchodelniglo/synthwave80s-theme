@@ -9,6 +9,10 @@
         "vscode": "^1.59.0"
     },
     "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Sanchodelniglo/synthwave80s-theme"
+      },
     "keywords": [
         "retro",
         "80s",
