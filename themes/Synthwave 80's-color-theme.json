@@ -1206,7 +1206,7 @@
 		{
 			"scope": "meta.tag",
 			"settings": {
-				"foreground": "#D4D4D4"
+				"foreground": "#FF4FDB"
 			}
 		},
 		{
@@ -1248,7 +1248,7 @@
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#FFFFFF"
+				"foreground": "#FF4FDB"
 			}
 		},
 		{
@@ -1267,7 +1267,7 @@
 		{
 			"scope": "entity.other.attribute-name.class.css",
 			"settings": {
-				"foreground": "#FFCB00",
+				"foreground": "#00FF9F",
 				"fontStyle": "normal"
 			}
 		},
