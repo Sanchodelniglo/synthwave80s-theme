@@ -1,10 +1,10 @@
 {
-    "name": "synthwave-80s-color-theme",
+    "name": "synthwave-80s-color-themes",
     "publisher": "sanchodelniglo",
     "author": "Romain Grossard",
     "displayName": "Synthwave 80's",
-    "description": "A flashy, retro theme forked on BELCH theme from https://themes.vscode.one Thanks to jbbelcher",
-    "version": "1.0.0",
+    "description": "Flashy, retro themes forked on BELCH theme from https://themes.vscode.one Thanks to jbbelcher",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.59.0"
     },
@@ -26,12 +26,12 @@
     "contributes": {
         "themes": [
             {
-                "label": "Synthwave 80's",
+                "label": "Synthwave 80's - Future Blue",
                 "uiTheme": "vs-dark",
                 "path": "./themes/synthwave-80s-blue.json"
             },
             {
-                "label": "Synthwave 80's (ooze)",
+                "label": "Synthwave 80's - Mutagen Ooze",
                 "uiTheme": "vs-dark",
                 "path": "./themes/synthwave-80s-green.json"
             }
