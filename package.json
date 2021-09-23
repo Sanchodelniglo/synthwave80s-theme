@@ -4,7 +4,7 @@
     "author": "Romain Grossard",
     "displayName": "Synthwave 80's",
     "description": "A flashy, retro theme forked on BELCH theme from https://themes.vscode.one Thanks to jbbelcher",
-    "version": "0.0.6",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.59.0"
     },
