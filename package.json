@@ -4,7 +4,7 @@
     "author": "Romain Grossard",
     "displayName": "Synthwave 80's",
     "description": "A flashy, retro theme forked on BELCH theme from https://themes.vscode.one Thanks to jbbelcher",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "engines": {
         "vscode": "^1.59.0"
     },
@@ -28,7 +28,12 @@
             {
                 "label": "Synthwave 80's",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Synthwave 80's-color-theme.json"
+                "path": "./themes/synthwave-80s-blue.json"
+            },
+            {
+                "label": "Synthwave 80's (ooze)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/synthwave-80s-green.json"
             }
         ]
     },
