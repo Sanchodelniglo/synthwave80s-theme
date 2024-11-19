@@ -13,3 +13,7 @@
 ## Mutagen Ooze
 
 ![image](https://raw.githubusercontent.com/Sanchodelniglo/synthwave80s-theme/master/screenshots/mutagen-ooze.png)
+
+## The Shredder
+
+![image](https://raw.githubusercontent.com/Sanchodelniglo/synthwave80s-theme/master/screenshots/the-shredder.png)

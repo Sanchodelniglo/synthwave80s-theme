@@ -4,7 +4,7 @@
     "author": "Romain Grossard",
     "displayName": "Synthwave 80's",
     "description": "Flashy, retro themes forked on BELCH theme from https://themes.vscode.one Thanks to jbbelcher",
-    "version": "1.0.1",
+    "version": "2.0.0",
     "engines": {
         "vscode": "^1.59.0"
     },
@@ -18,7 +18,8 @@
         "80s",
         "outrun",
         "synthwave",
-        "neon"
+        "neon",
+        "dark"
     ],
     "categories": [
         "Themes"
@@ -34,10 +35,15 @@
                 "label": "Synthwave 80's - Mutagen Ooze",
                 "uiTheme": "vs-dark",
                 "path": "./themes/synthwave-80s-green.json"
+            },
+            {
+                "label": "Synthwave 80's - The Shredder",
+                "uiTheme": "vs-dark",
+                "path": "./themes/the-shredder.json"
             }
         ]
     },
     "dependencies": {
-        "node": "^16.6.1"
+        "node": ">=16.6.1"
     }
 }
