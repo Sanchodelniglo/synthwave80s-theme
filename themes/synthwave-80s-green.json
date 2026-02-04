@@ -1,6 +1,24 @@
 {
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
+	"semanticHighlighting": true,
+	"semanticTokenColors": {
+		"variable.readonly": "#00FF9F",
+		"property.readonly": "#00FF9F",
+		"enumMember": "#FFCB00",
+		"namespace": "#00FF9F",
+		"type": "#00FF9F",
+		"class": "#00FF9F",
+		"interface": "#00FF9F",
+		"struct": "#00FF9F",
+		"typeParameter": "#E692FF",
+		"parameter": "#D4D4D4",
+		"variable": "#FFFFFF",
+		"property": "#FFFFFF",
+		"function": "#00DBFF",
+		"method": "#00DBFF",
+		"macro": "#FF4FDB"
+	},
 	"colors": {
 		"activityBar.activeBackground": "#6d008c",
 		"activityBar.background": "#240047",
@@ -78,6 +96,13 @@
 		"editorHoverWidget.foreground": "#2aff87",
 		"editorIndentGuide.activeBackground1": "#2aff87",
 		"editorIndentGuide.background1": "#6800ff99",
+		"editorBracketHighlight.foreground1": "#ffd700",
+		"editorBracketHighlight.foreground2": "#da70d6",
+		"editorBracketHighlight.foreground3": "#179fff",
+		"editorBracketHighlight.foreground4": "#ffd700",
+		"editorBracketHighlight.foreground5": "#da70d6",
+		"editorBracketHighlight.foreground6": "#179fff",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#ff1212cc",
 		"editorInfo.background": "#4490bf00",
 		"editorInfo.border": "#4490bf00",
 		"editorInfo.foreground": "#794dd9",
@@ -2145,7 +2170,7 @@
 		{
 			"scope": "comment, punctuation.definition.comment",
 			"settings": {
-				"foreground": "#9A00E0",
+				"foreground": "#B080D0",
 				"fontStyle": "italic"
 			}
 		},

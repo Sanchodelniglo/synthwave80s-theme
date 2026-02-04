@@ -1,4 +1,12 @@
 .vscode/**
 .vscode-test/**
 .gitignore
+.gitattributes
 vsc-extension-quickstart.md
+node_modules/**
+*.vsix
+.ruby-lsp/**
+ruby.rb
+package-lock.json
+.claude/**
+.git/**

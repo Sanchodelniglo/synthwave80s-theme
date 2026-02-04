@@ -4,22 +4,32 @@
     "author": "Romain Grossard",
     "displayName": "Synthwave 80's",
     "description": "Flashy, retro themes forked on BELCH theme from https://themes.vscode.one Thanks to jbbelcher",
-    "version": "2.0.0",
+    "version": "2.0.1",
+    "license": "MIT",
     "engines": {
-        "vscode": "^1.59.0"
+        "vscode": "^1.80.0"
     },
     "icon": "icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/Sanchodelniglo/synthwave80s-theme"
-      },
+    },
+    "bugs": {
+        "url": "https://github.com/Sanchodelniglo/synthwave80s-theme/issues"
+    },
+    "homepage": "https://github.com/Sanchodelniglo/synthwave80s-theme#readme",
+    "sponsor": {
+        "url": "https://ko-fi.com/sanchodelniglo"
+    },
     "keywords": [
         "retro",
         "80s",
         "outrun",
         "synthwave",
         "neon",
-        "dark"
+        "dark",
+        "theme",
+        "color-theme"
     ],
     "categories": [
         "Themes"
@@ -42,8 +52,5 @@
                 "path": "./themes/the-shredder.json"
             }
         ]
-    },
-    "dependencies": {
-        "node": ">=16.6.1"
     }
 }
